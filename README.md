@@ -7,16 +7,16 @@ The existing `IFileType`s can be expanded in various ways.
 - Install nuget package into your project:
 
 ```powershell
-Install-Package MagicBytesValidator -Version 2.0.2
+Install-Package MagicBytesValidator -Version 2.0.3
 ```
 
 ```bash
-dotnet add package MagicBytesValidator --version 2.0.2
+dotnet add package MagicBytesValidator --version 2.0.3
 ```
 
 - Reference in your csproj:
 ```xml
-<PackageReference Include="MagicBytesValidator" Version="2.0.2" />
+<PackageReference Include="MagicBytesValidator" Version="2.0.3" />
 ```
 
 ### How to use it?
@@ -144,6 +144,7 @@ This can be useful when debugging or validating newly added FileTypes.
 |EXE|exe, com, dll, drv, pif, qts, qtx , sys, acm, ax, cpl, fon, ocx, olb, scr, vbx, vxd, mui, iec, ime, rs, tsp, efi|application/x-dosexec, application/x-msdos-program|
 |GIF|gif|image/gif|
 |GZ|gz|application/gzip|
+|HEIC|heic, heif|image/heic, image/heif|
 |ICO|ico|image/x-icon|
 |JPG|jpg, jpeg, jpe, jif, jfif, jfi|image/jpeg|
 |MIDI|midi, mid|audio/x-midi|

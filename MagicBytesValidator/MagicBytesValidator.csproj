@@ -4,12 +4,12 @@
         <PackageId>MagicBytesValidator</PackageId>
         <Title>traperto GmbH</Title>
         <Description>Validate files based on mime types, file extensions and magic byte sequences.</Description>
-        <Version>2.0.2</Version>
+        <Version>2.0.3</Version>
         <Authors>Members of traperto GmbH</Authors>
         <PackageProjectUrl>https://github.com/Traperto/magic-bytes-validator/blob/main/README.md</PackageProjectUrl>
         <PackageTags>mime mimetype mimetypes magic magicbyte magicbytes extension extensions file
             fileextension traperto trapertoGmbh
-            TobiasJanssen NiklasSchmidt MaximilianBreuker
+            TobiasJanssen LaikaSchmidt MaximilianBreuker
         </PackageTags>
         <RepositoryUrl>https://github.com/Traperto/magic-bytes-validator</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
